@@ -1,2 +1,2 @@
 print("Hello Word")
-print("alteração do codigo")
+print("Alteração de repositorio")
